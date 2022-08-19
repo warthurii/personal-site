@@ -1,11 +1,11 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a fullstack developer at [Progressive Insurance](https://progressive.com) where I am helping develop an accesible we app to automatethe fulfillment of customers accessibility requests.  Ienjoy being a full stack developer since I am still young in my career and it gives me the ability to try out the whole stack of development. In mt free time recently I have enjoyed studying Golang, algorithms, and self driving cars. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At progressive, I have learned how to build and support a reliable, scalable, and accessible web application with technologies like [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction), [AWS](https://aws.amazon.com/), [React](https://reactjs.org/), [Terraform](https://www.terraform.io/) and [MongoDB](https://www.mongodb.com/atlas/database). I am currently a developer and post handoff will be the Technical App Owner and core supporter.
 
 # Some history
 
