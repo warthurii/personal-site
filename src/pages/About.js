@@ -7,7 +7,6 @@ import Main from '../layouts/Main';
 
 // uses babel to load contents of file
 const markdown = raw('../data/about.md');
-
 const count = markdown.split(/\s+/)
   .map((s) => s.replace(/\W/g, ''))
   .filter((s) => s.length).length;
