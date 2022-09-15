@@ -29,7 +29,6 @@ const positions = [
     points: [
       'Tested the functionality and usability of the organizations first AWS based Microservices Framework by building simple endpoints using GoLang.',
       'Helped build the organizations first translation repository API using GoLang, ReactJS, and bash scripting.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
       'Developed in the Salesforce environment in order to ensure recurring payments of donors would continue when wallets switch using the Process Builder and Apex language.',
       'Ensured all Salesforce code worked in met organization standards and tested at least 70% of code written.',
     ],
