@@ -17,7 +17,7 @@ At Progressive, I have learned how to build and support a reliable, scalable, an
 
 - My 11th grade year I took the course "Digital Electrons" and enjoyed every second of it (particularly removing the resistors from circuits to blow up the lights). Here I gained the ability to do arithmetic in binary, boolean algebra, solder circuit boards, diagram circuits, and build circuits with breadboards.
 
-- My final year of high school I took poised to go on and be a mechanical engineer I took "Engineering Principles" and quickly fell out of love. It started off good learning about simple machines and mechanical advantage, but was quickly spoiled by truss calculations. Little did I know there were computer programs to do those for us.
+- Planning to be a mechanical engineer, my final year of high school I took "Engineering Principles" and quickly fell out of love. It started off good learning about simple machines and mechanical advantage, but just seemed lackluster compared to digital electronics. Having to do truss calculations by hand did not help.
 
 - After a not great time in engineering principles and subpar visits to the University of Akron I discovered the Bowling Green State was the cheapest school in Ohio and had a degree in Software Engineering which intrigued me.
 
@@ -30,8 +30,6 @@ At Progressive, I have learned how to build and support a reliable, scalable, an
 - Since I have particularly enjoyed using Spotify's and Youtube's.
 
 - I am now a fullstack developer with imposter syndrome searching for the type of development I would like to do in the future. For now though I quite enjoy fullstack development.
-
-Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
